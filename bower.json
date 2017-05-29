@@ -1,0 +1,16 @@
+{
+  "name": "paper-dialog-classes",
+  "version": "1.0.0",
+  "description": "Provide paper-dialog classes",
+  "main": "paper-dialog-classes.html",
+  "authors": [
+    "Faan11"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer"
+  },
+  "devDependencies": {
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
+    "iron-component-page": "polymerelements/iron-component-page#^1.0.0"
+  }
+}
